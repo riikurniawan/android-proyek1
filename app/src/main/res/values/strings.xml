@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Proyek1</string>
+    <string name="title_kalkulator">MASUKKAN DUA ANGKA</string>
+    <string name="hint_kalkulator_pertama">Masukkan angka pertama</string>
+    <string name="hint_kalkulator_kedua">Masukkan angka kedua</string>
+    <string name="btn_tambah">+</string>
+    <string name="btn_kurang">-</string>
+    <string name="btn_bagi">/</string>
+    <string name="btn_kali">*</string>
+    <string name="btn_clear">Bersihkan</string>
+    <string name="tv_hasil">Hasil\n%1$.2f</string>
+    <string name="title_nama">Masukkan Nama Anda</string>
+    <string name="hint_nama">Nama Lengkap</string>
+    <string name="btn_tampilkan">Tampilkan</string>
+    <string name="menu_nama">Nama</string>
+    <string name="menu_kalkulator">Kalkulator</string>
+    <string name="menu_negara">Daftar Negara</string>
+
+    <string-array name="daftar_negara">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Singapore</item>
+        <item>Japan</item>
+        <item>Republic of China</item>
+        <item>Taiwan</item>
+        <item>Thailand</item>
+        <item>Sri Lanka</item>
+        <item>Russia</item>
+    </string-array>
+</resources>
